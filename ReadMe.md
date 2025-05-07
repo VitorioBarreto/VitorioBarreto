@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou Vitório Barreto!
 
-Sou estudante de Engenharia de Software, na UNIFIO. Aqui eu tenho os repositórios de meus projetos acadêmicos e pessoais.
+ Sou estudante de Engenharia de Software, na UNIFIO. Aqui eu tenho os repositórios de meus projetos acadêmicos e pessoais.
+##
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
@@ -12,15 +13,21 @@ Sou estudante de Engenharia de Software, na UNIFIO. Aqui eu tenho os repositóri
  
 </p>
 
+## 
 
-## 📊 Banco de Dados
+### 📊 Banco de Dados
+<p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+</p>
 
+## 
 
-## 🛠️ Ferramentas
+### 🛠️ Ferramentas
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 </p>
+
+## 
